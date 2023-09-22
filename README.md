@@ -2,6 +2,7 @@
 <html> 
 <meta charset="pt-br">
 </head>
+<body>
 <title>barbeariaalura</title>  
 <h1>Barbearia Alura</h1>
 <p1><em>Sobre a Barbearia Alura.</em>
@@ -11,4 +12,5 @@ Localizada no coração da cidade a Barbearia Alura traz para o mercado o que h�
 <strong>Nossa missão é: "Proporcionar auto-estima e qualidade de vida aos clientes".</strong> 
 
 Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p1>
+</body>
 </html> 
