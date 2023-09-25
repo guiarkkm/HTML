@@ -2,8 +2,10 @@
 <html lang="pt-br"> 
 <meta charset="pt-br""UTF-8">
 </head>
-<body>
-<title>barbeariaalura</title>  
+<body>  
+  
+<title>barbeariaalura</title>
+  
 <h1>Barbearia Alura</h1>
 <p1><em>Sobre a Barbearia Alura.</em>
 
