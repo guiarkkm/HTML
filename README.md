@@ -1,6 +1,6 @@
 <!DOCTYPE>
-<html> 
-<meta charset="pt-br">
+<html lang="pt-br"> 
+<meta charset="pt-br""UTF-8">
 </head>
 <body>
 <title>barbeariaalura</title>  
